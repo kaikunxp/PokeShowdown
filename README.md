@@ -13,8 +13,7 @@ A feature-rich, high-performance **native Android application** for [Pokémon Sh
 
 > [!NOTE]
 > **This project was mostly vibe coded.** 
-> Built rapidly through interactive, prompt-driven AI pair programming, this app explores how far conversational AI development can push modern Jetpack Compose architecture, real-time WebSocket protocol handling, and custom canvas rendering.
-
+> Built rapidly through interactive, prompt-driven AI pair programming.
 ---
 
 ## 🚀 What It's For
